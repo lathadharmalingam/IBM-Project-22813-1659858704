@@ -12,6 +12,7 @@ As our lives are very busy these days, we often feel we need more than 24 hrs. a
 🎯**PROJECT WORKFLOW**
 1) <a href="https://github.com/IBM-EPBL/IBM-Project-22813-1659858704/tree/main/Assignments" target="_blank">Tasks assigned</a> 
 2) <a href="https://github.com/IBM-EPBL/IBM-Project-22813-1659858704/tree/main/IdeationPhase" target="_blank">Ideation phase</a> 
-3) Ideation phase1
-4) <a href="https://github.com/IBM-EPBL/IBM-Project-22813-1659858704/tree/main/IdeationPhase" target="_blank">Ideation phase2</a>
+3) <a href="https://github.com/IBM-EPBL/IBM-Project-22813-1659858704/tree/main/ProjectPlanningPhase" target="_blank">Project planning phase</a>
+4) <a href="https://github.com/IBM-EPBL/IBM-Project-22813-1659858704/tree/main/ProjectDesignPhase1" target="_blank">Project Design Phase1</a>
+5) <a href="https://github.com/IBM-EPBL/IBM-Project-22813-1659858704/tree/main/ProjectDesignPhase2" target="_blank">Project Design Phase2</a>
 
